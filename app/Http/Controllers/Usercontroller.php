@@ -19,11 +19,5 @@ class Usercontroller extends Controller
         else{
               return"username or password is not matched";
         }
-
-       
-           
-            
-        
-    
     }
 }
